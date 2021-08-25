@@ -20,7 +20,6 @@ snake[0] = {
 
 document.addEventListener("keydown", setDirection);
 
-
 function setDirection(event) {
     if(event.keyCode == 37 && direction != "right")
         direction = "left"
