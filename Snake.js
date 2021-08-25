@@ -108,10 +108,6 @@ function smashBody(arr) {
     }
 }
 
-function scoring() {
-    
-}
-
 function game() {
     drawEverything()
     moveSnake()
