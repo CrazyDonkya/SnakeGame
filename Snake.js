@@ -116,4 +116,4 @@ function game() {
     smashWall()
 }
 
-let gameInterval = setInterval(game, 100)
+let gameInterval = setInterval(game, 130)
