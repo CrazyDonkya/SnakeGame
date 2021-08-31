@@ -57,7 +57,7 @@ function drawEverything() {
 		context.fillRect(snake[j].x, snake[j].y, box, box);
         
     }
-    context.fillStyle = "white";
+    context.fillStyle = "purple";
 	context.font = "50px Arial";
 	context.fillText(score, box * 2.1, box * 1.7);
 }
